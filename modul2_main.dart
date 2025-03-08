@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 //Erza Naufal Hakim-2211102198
-void main() {
+void modul2_main() {
   runApp(const MyApp());
 }
 
