@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-void main() {
+//Erza Naufal Hakim-2211102198
+void modul2_main() {
   runApp(const MyApp());
 }
 
@@ -104,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text('You have pushed the button this many times:'),
+            const Text('Hello World'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
